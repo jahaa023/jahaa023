@@ -2,9 +2,12 @@
 ### Im in my second year at Kuben videregående skole
 Languages i have experience with:
 <br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,powershell,py,)](https://skillicons.dev)
 <br>
+<br>
 Languages in my GitHub repositories:
+<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaa023&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <br>

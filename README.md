@@ -3,7 +3,6 @@
 Languages i have experience with:
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,powershell,py)](https://skillicons.dev)
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://skillicons.dev/icons?i=css" /></a>

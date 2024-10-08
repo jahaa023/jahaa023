@@ -10,6 +10,7 @@ Languages i have experience with:
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <br>
 <br>
 Languages in my GitHub repositories:

@@ -16,12 +16,12 @@ Languages i have experience with:
 Software i have experience with:
 <br>
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=ai" /></a>
-<a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=ps" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://skillicons.dev/icons?i=figma" /></a>
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=windows" /></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
+<a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows" /></a>
 <br>
 <br>
 Languages in my GitHub repositories:

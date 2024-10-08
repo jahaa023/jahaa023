@@ -1,5 +1,5 @@
 ## My name is Jakob Johannes Hansgaard
-### Im in my second year at Kuben videregående skole
+### Im in my second year at Kuben High School
 Languages i have experience with:
 <br>
 <br>

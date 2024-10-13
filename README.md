@@ -24,6 +24,10 @@ Software i have experience with:
 <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows" /></a>
 <br>
 <br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
+<br>
 Languages in my GitHub repositories:
 <br>
 <br>

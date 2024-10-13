@@ -24,7 +24,8 @@ Software i have experience with:
 <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows" /></a>
 <br>
 <br>
- <!--START_SECTION:waka-->
+WakaTime stats. I set it up very recently so hopefully it will grow in the future.
+<!--START_SECTION:waka-->
 
 ```txt
 No activity tracked

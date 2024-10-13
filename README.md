@@ -26,8 +26,6 @@ Software i have experience with:
 <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<br>
-<br>
 Languages in my GitHub repositories:
 <br>
 <br>

@@ -25,6 +25,11 @@ Software i have experience with:
 <br>
 <br>
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 Languages in my GitHub repositories:
 <br>

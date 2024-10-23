@@ -11,6 +11,7 @@ Languages i have experience with:
 <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=jquery" /></a>
 <br>
 <br>
 Software i have experience with:

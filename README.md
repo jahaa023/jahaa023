@@ -37,6 +37,9 @@ HTML          1 min           ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<br>
+<br>
+## Currently working as an intern at <a href="https://www.soprasteria.no/">Sopra Steria</a>
 Languages in my GitHub repositories:
 <br>
 <br>

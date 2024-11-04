@@ -1,5 +1,6 @@
 ## My name is Jakob Johannes Hansgaard
 ### Im in my second year at Kuben High School
+## Currently working as an intern at <a href="https://www.soprasteria.no/">Sopra Steria</a>
 Languages i have experience with:
 <br>
 <br>
@@ -39,7 +40,6 @@ HTML          1 min           ░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br>
 <br>
-## Currently working as an intern at <a href="https://www.soprasteria.no/">Sopra Steria</a>
 Languages in my GitHub repositories:
 <br>
 <br>

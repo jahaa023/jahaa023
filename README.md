@@ -1,6 +1,12 @@
 ## My name is Jakob Johannes Hansgaard
 ### Im in my second year at Kuben High School
 ## Currently working as an intern at <a href="https://www.soprasteria.no/">Sopra Steria</a>
+Languages in my GitHub repositories:
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaa023)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 Languages i have experience with:
 <br>
 <br>
@@ -39,11 +45,6 @@ HTML          3 mins          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <br>
-<br>
-Languages in my GitHub repositories:
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaa023&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 Im new to GitHub so i dont have a lot of commits now, but will hopefully have more in the future.
 <br>

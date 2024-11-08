@@ -1,6 +1,10 @@
 ## My name is Jakob Johannes Hansgaard
 ### Im in my second year at Kuben High School
 ## Currently working as an intern at <a href="https://www.soprasteria.no/">Sopra Steria</a>
+I am working most on a school project website called Nocturnal Skirmish / GameHub. Here's a link:
+```
+https://github.com/Nocturnal-Skirmish?view_as=public
+```
 Languages in my GitHub repositories:
 <br>
 <br>

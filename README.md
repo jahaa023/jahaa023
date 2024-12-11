@@ -39,11 +39,11 @@ WakaTime stats. I set it up very recently so hopefully it will grow in the futur
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          7 hrs 23 mins   ████████████████▓░░░░░░░░   67.15 %
-CSS          2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.06 %
-JavaScript   51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+PHP          9 hrs 27 mins   ██████████████████░░░░░░░   71.70 %
+CSS          2 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+JavaScript   57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+SQL          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->

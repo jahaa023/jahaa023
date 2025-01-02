@@ -22,6 +22,7 @@ Languages i have experience with:
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
 <br>
 <br>
 Software i have experience with:
@@ -35,7 +36,7 @@ Software i have experience with:
 <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows" /></a>
 <br>
 <br>
-WakaTime stats. I set it up very recently so hopefully it will grow in the future.
+WakaTime stats for the week (i think)
 <!--START_SECTION:waka-->
 
 ```txt

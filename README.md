@@ -34,6 +34,7 @@ Software i have experience with:
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
 <a href="https://www.microsoft.com/en-us/windows/"><img src="https://skillicons.dev/icons?i=windows" /></a>
+<a href="https://www.raspberrypi.com/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
 <br>
 <br>
 WakaTime stats for the week (i think)

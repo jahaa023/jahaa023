@@ -1,6 +1,5 @@
 # My name is Jakob Johannes Hansgaard
 <i>Im in my second year at Kuben High School</i>
-### <a href="https://www.jakobjohannes.com">Check out my portfolio!</a>
 I am working most on a school project website called Nocturnal Skirmish / GameHub. Here's a link:
 ```
 https://github.com/Nocturnal-Skirmish?view_as=public
@@ -58,3 +57,5 @@ Im new to GitHub so i dont have a lot of commits now, but will hopefully have mo
   />
   <img src="https://github-readme-stats.vercel.app/api?username=jahaa023&show_icons=true" />
 </picture>
+
+### <a href="https://www.jakobjohannes.com">Check out my portfolio!</a>

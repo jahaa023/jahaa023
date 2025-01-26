@@ -1,5 +1,5 @@
 # My name is Jakob Johannes Hansgaard
-## Im in my second year at Kuben High School
+<i>Im in my second year at Kuben High School</i>
 ### <a href="https://www.jakobjohannes.com">Check out my portfolio!</a>
 I am working most on a school project website called Nocturnal Skirmish / GameHub. Here's a link:
 ```

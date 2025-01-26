@@ -2,7 +2,7 @@
 <i>Im in my second year at Kuben High School and currently working as an intern at <a href='https://www.oslo.kommune.no/etater-foretak-og-ombud/renovasjons-og-gjenvinningsetaten/'>REG (Oslo kommune renovasjons- og gjenvinningsetaten)</a></i>
 <br>
 <br>
-I am working mostly on a school project website called Nocturnal Skirmish / GameHub. <a href='https://github.com/Nocturnal-Skirmish?view_as=public'>Here's a link:</a>
+I am working mostly on a school project website called Nocturnal Skirmish / GameHub. <a href='https://github.com/Nocturnal-Skirmish?view_as=public'>Here's a link</a>
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaa023)](https://github.com/anuraghazra/github-readme-stats)

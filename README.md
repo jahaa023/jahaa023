@@ -1,5 +1,6 @@
 # My name is Jakob Johannes Hansgaard
-<i>Im in my second year at Kuben High School and currently working as an intern at <a href='https://www.oslo.kommune.no/etater-foretak-og-ombud/renovasjons-og-gjenvinningsetaten/' target='_blank'>REG (Oslo kommune renovasjons- og gjenvinningsetaten)</a></i>
+<i>Im in my second year at Kuben High School and currently working as an intern at <a href='https://www.oslo.kommune.no/etater-foretak-og-ombud/renovasjons-og-gjenvinningsetaten/'>REG (Oslo kommune renovasjons- og gjenvinningsetaten)</a></i>
+<br>
 <br>
 I am working most on a school project website called Nocturnal Skirmish / GameHub. Here's a link:
 ```

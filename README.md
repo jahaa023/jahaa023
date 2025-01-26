@@ -49,10 +49,7 @@ Markdown      15 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<br>
-<br>
 Im new to GitHub so i dont have a lot of commits now, but will hopefully have more in the future.
-<br>
 <br>
 <picture>
   <source

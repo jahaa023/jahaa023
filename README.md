@@ -4,8 +4,6 @@
 <br>
 I am working most on a school project website called Nocturnal Skirmish / GameHub. <a href='https://github.com/Nocturnal-Skirmish?view_as=public'>Here's a link:</a>
 <br>
-Languages in my GitHub repositories:
-<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaa023)](https://github.com/anuraghazra/github-readme-stats)
 <br>

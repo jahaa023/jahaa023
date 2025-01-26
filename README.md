@@ -2,10 +2,8 @@
 <i>Im in my second year at Kuben High School and currently working as an intern at <a href='https://www.oslo.kommune.no/etater-foretak-og-ombud/renovasjons-og-gjenvinningsetaten/'>REG (Oslo kommune renovasjons- og gjenvinningsetaten)</a></i>
 <br>
 <br>
-I am working most on a school project website called Nocturnal Skirmish / GameHub. Here's a link:
-```
-https://github.com/Nocturnal-Skirmish?view_as=public
-```
+I am working most on a school project website called Nocturnal Skirmish / GameHub. <a href='https://github.com/Nocturnal-Skirmish?view_as=public'>Here's a link:</a>
+<br>
 Languages in my GitHub repositories:
 <br>
 <br>

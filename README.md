@@ -38,7 +38,11 @@ WakaTime stats for the week (i think)
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   2 mins          █████████████████████████   100.00 %
+Python       30 mins         ████████████████▒░░░░░░░░   65.57 %
+HTML         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+PHP          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+CSS          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->

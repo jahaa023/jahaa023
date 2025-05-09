@@ -20,6 +20,10 @@ Languages i have experience with:
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
 <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" /></a>
 <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+<a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 <br>
 <br>
 Software i have experience with:

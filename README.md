@@ -42,11 +42,11 @@ WakaTime stats for the week (i think)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 hrs 16 mins  ████████████████████░░░░░   79.40 %
-HTML         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-CSS          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-JavaScript   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-SQL          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TypeScript   19 hrs 8 mins   ███████████████████░░░░░░   75.54 %
+HTML         2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+CSS          1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JavaScript   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+SQL          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->

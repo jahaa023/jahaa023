@@ -5,7 +5,7 @@
 I am working mostly on a school project website called Nocturnal Skirmish / GameHub. <a href='https://github.com/Nocturnal-Skirmish?view_as=public'>Here's a link</a>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaa023)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaa023&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 Languages i have experience with:

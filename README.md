@@ -24,6 +24,7 @@ Languages i have experience with:
 <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
 <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <br>
 <br>
 Software i have experience with:

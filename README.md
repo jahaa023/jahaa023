@@ -40,11 +40,11 @@ WakaTime stats for the week (i think)
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 54 mins   ███████████████████▒░░░░░   77.12 %
-HTML         46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-PowerShell   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-CSS          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Python       7 hrs 7 mins    ██████████████████▓░░░░░░   74.16 %
+HTML         46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+PowerShell   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+CSS          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
